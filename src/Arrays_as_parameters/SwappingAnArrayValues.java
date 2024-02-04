@@ -1,4 +1,4 @@
-package swapping_an_array_values;
+package Arrays_as_parameters;
 
 import java.util.Arrays;
 
